@@ -42,5 +42,5 @@ This dashboard serves as a crucial tool for the adidas company’s management te
 
 
 **Dashboard Overview:**
-![Adidas](Adidas.png)
+![Adidas](Adidas.PNG)
 
