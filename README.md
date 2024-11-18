@@ -42,4 +42,5 @@ This dashboard serves as a crucial tool for the adidas company’s management te
 
 
 **Dashboard Overview:**
-![https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/AdidasUSInteractiveSalesDashboard](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/AdidasUSInteractiveSalesDashboard.PNG)
+![Adidas](Adidas.png)
+
