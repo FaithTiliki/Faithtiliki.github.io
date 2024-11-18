@@ -44,3 +44,23 @@ This dashboard serves as a crucial tool for the adidas company’s management te
 **Dashboard Overview:**
 ![Adidas](Adidas.PNG)
 
+# Project 2
+**Title:** Employee Data Interrogation
+
+**SQL Code:** [Employee Sql Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Employee.sql)
+
+**SQL Skills Used:** 
+•	Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+•	Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and 
+counted records to analyze data trends.
+
+•	Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+•	Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+
+**Project Description:**
+
+**Technology used:** SQL server
+
