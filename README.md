@@ -62,8 +62,8 @@ Operational Efficiency: Identify areas where operational efficiencies can be imp
 
 By leveraging this interactive dashboard, Adidas can make data-driven decisions to optimize sales, improve customer satisfaction, and drive business growth.
 
-
 **Dashboard Overview:**
+
 ![Adidas](Adidas.PNG)
 
 # Project 2
