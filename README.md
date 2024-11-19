@@ -300,7 +300,7 @@ Amazon can gain valuable insights into its delivery operations, optimize perform
 **Dashboard Overview:**
 ![Amazon](Amazon.PNG)
 
-# Project
+# Project 5
 **Title:** Employees Data Interrogation 2
 
 **SQL Code:** [Employee Info Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Employee%20Info%20Sql%20Queries)
