@@ -147,9 +147,9 @@ By executing these SQL queries, you can gain valuable insights into employee dat
 
 **Technology used:** SQL server
 
-# Project 1
+# Project 3
 
-**Title:** [HR Analytics Dashboard]()
+**Title:** [HR Analytics Dashboard](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/HR%20Analytics%20Dashboard.pbix)
 
 **Tools Used:** Microsoft PowerBI(Visualization, Interactivity, Data connectivity and Customizable visualization)
  
@@ -164,8 +164,11 @@ Data Sources:
 The dashboard likely relies on data from various HR systems, including:
 
 HR Information System (HRIS): Employee information, demographics, tenure, and performance data.
+
 Payroll System: Salary, bonus, and compensation data.
+
 Recruitment System: Applicant tracking, hiring, and onboarding data.
+
 Dashboard Components:
 
 The dashboard appears to include the following key components:
