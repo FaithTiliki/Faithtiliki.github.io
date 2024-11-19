@@ -75,8 +75,7 @@ By leveraging this interactive dashboard, Adidas can make data-driven decisions 
 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
 
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and 
-counted records to analyze data trends.
+Data Aggregation (MIN, MAX, AVG, COUNT): Calculated totals and counted records to analyze data.
 
 Data Filtering (WHERE, BETWEEN, OR, LIKE, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 
@@ -300,6 +299,90 @@ Amazon can gain valuable insights into its delivery operations, optimize perform
 
 **Dashboard Overview:**
 ![Amazon](Amazon.PNG)
+
+# Project
+**Title:** Employees Data Interrogation 2
+
+**SQL Code:** [Employee Info Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Employee%20Info%20Sql%20Queries)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT, MIN, MAX, AVG): Used to count the number of rows in a specific group or the entire table, to find the maximum value in a specific column, to find the minimum value in a specific column and to calculate the average value of a specific column.
+
+Data Filtering (WHERE, BETWEEN, IN,  ORDERBY, GROUPBY AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:**
+
+Objective:
+
+To analyze employee data and extract valuable insights for decision-making and reporting purposes.
+
+Data Sources:
+
+The analysis is based on two tables:
+
+Employee_Details: Contains employee details like ID, name, city, manager ID, department, etc.
+
+Employee_Salary: Contains employee IDs, salaries, projects, and other relevant information.
+Queries and Their Purposes:
+
+Data Extraction and Formatting:
+
+Query 1: Extracts employee first names in uppercase.
+
+Query 4: Extracts the first four characters of employee last names.
+
+Query 5: Extracts the city name from the address column.
+
+Query 10: Concatenates first and last names into a full name.
+
+Data Filtering and Counting:
+
+Query 2: Counts employees in a specific department.
+
+Query 7: Filters employees based on salary range.
+
+Query 8: Filters employees based on name patterns.
+
+Query 11: Counts employees by gender within a specific date range.
+
+Query 14: Excludes specific employees from the query.
+
+Query 15: Filters employees based on address.
+
+Query 16: Identifies employees in managerial positions.
+
+Query 18: Filters employees based on gender and department.
+
+Data Sorting and Ranking:
+
+Query 9: Retrieves the top N salaries.
+
+Query 12: Sorts employees by last name and department.
+
+Data Transformation and Aggregation:
+
+Query 6: Creates a new table with filtered data.
+
+Query 17: Counts employees by department and sorts by count.
+
+Query 19: Identifies employees with a date of joining (potentially redundant).
+
+Query 20: Finds the top and bottom salaries.
+
+**Potential Use Cases:**
+
+HR Analytics: Analyzing employee demographics, salary trends, and performance metrics.
+
+Project Management: Tracking project assignments and resource allocation.
+
+Compensation Planning: Identifying salary ranges and potential disparities.
+
+**Technology used:** SQL server
 
 
 
