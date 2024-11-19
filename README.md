@@ -147,3 +147,82 @@ By executing these SQL queries, you can gain valuable insights into employee dat
 
 **Technology used:** SQL server
 
+# Project 1
+
+**Title:** [HR Analytics Dashboard]()
+
+**Tools Used:** Microsoft PowerBI(Visualization, Interactivity, Data connectivity and Customizable visualization)
+ 
+**Project Description:**
+
+Objective:
+
+To create an interactive dashboard that provides a comprehensive overview of HR analytics, enabling data-driven decision-making and strategic insights.
+
+Data Sources:
+
+The dashboard likely relies on data from various HR systems, including:
+
+HR Information System (HRIS): Employee information, demographics, tenure, and performance data.
+Payroll System: Salary, bonus, and compensation data.
+Recruitment System: Applicant tracking, hiring, and onboarding data.
+Dashboard Components:
+
+The dashboard appears to include the following key components:
+
+Key Performance Indicators (KPIs):
+
+Count of Employees: Total number of employees in the organization.
+
+Attrition: Number of employees who have left the organization.
+
+Attrition Rate: Percentage of employees who have left the organization.
+
+Average Age: Average age of employees.
+
+Average Salary: Average salary of employees.
+
+Average Years of Service: Average tenure of employees.
+
+Charts and Visualizations:
+
+Attrition by Gender: A pie chart showing the distribution of attrition by gender.
+
+Attrition by Education: A pie chart showing the distribution of attrition by education level.
+
+Attrition by Age: A bar chart showing the distribution of attrition by age group.
+
+Attrition by Salary: A bar chart showing the distribution of attrition by salary range.
+
+Attrition by Years at Company: A line chart showing the trend of attrition over time.
+
+Attrition by Job Role: A bar chart showing the distribution of attrition by job role.
+
+**Key findings:**
+
+Identify High-Attrition Groups: Focus on specific demographics (e.g., age, gender, education) or job roles with higher attrition rates.
+
+Analyze Trends: Track changes in attrition rates over time and identify potential causes.
+
+Improve Employee Satisfaction: Address issues related to job satisfaction, compensation, and work-life balance to reduce voluntary turnover.
+
+Strengthen Retention Strategies: Implement targeted retention strategies for key talent segments.
+
+Optimize Recruitment and Onboarding: Improve the hiring process to attract and retain top talent.
+
+**Potential Use Cases:**
+
+HR Planning: Forecasting future workforce needs and planning for succession.
+
+Performance Management: Identifying performance gaps and implementing targeted development plans.
+
+Compensation and Benefits: Analyzing compensation trends and adjusting compensation packages to remain competitive.
+
+Employee Engagement: Measuring employee satisfaction and implementing initiatives to improve morale.
+
+This HR Analytics dashboard empowers organizations to make data-driven decisions that enhance workforce productivity and drive business success.
+
+**Dashboard Overview:** 
+![HR](HR.PNG)
+
+
