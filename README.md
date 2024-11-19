@@ -72,6 +72,7 @@ By leveraging this interactive dashboard, Adidas can make data-driven decisions 
 **SQL Code:** [Employee Sql Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Employee.sql)
 
 **SQL Skills Used:** 
+
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
 
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and 
@@ -83,6 +84,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 
 **Project Description:**
+
 Objective:
 
 To analyze employee data and extract valuable insights for decision-making and reporting purposes.
