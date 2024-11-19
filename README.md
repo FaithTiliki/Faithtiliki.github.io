@@ -3,7 +3,7 @@
 
 **Title:** [Adidas US Interactive Sales Dashboard](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Copy%20of%20Adidas-Dashboard-START.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot table, Pivot charts, Slicers, Timeline, Chart formatting, Data cleaning, Handling of missing values, handling duplicates and empty cells.)   
+**Tools Used:** Microsoft Excel(Pivot table, Pivot charts, Slicers, Timeline, Chart formatting and Data cleaning)   
 
 **Project Description:** This project involved analysing sales data of Adidas company to identify trends and patterns in retailers sales performance for 2020 & 2021. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
 
@@ -48,7 +48,7 @@ Sales Channel Effectiveness:
 
 Sales Method Performance: Evaluate the effectiveness of different sales channels (e.g., online, retail).
 
-Potential Insights and Actions:
+**Potential Insights and Actions:**
 
 Targeted Marketing Campaigns: Focus marketing efforts on top-performing products and regions.
 
@@ -227,5 +227,80 @@ This HR Analytics dashboard empowers organizations to make data-driven decisions
 
 **Dashboard Overview:** 
 ![HR](HR.PNG)
+
+# Project 4
+
+**Title:** [Amazon Interactive Delivery Performance Dashboard](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/amazon_delivery%20Dashboard.xlsx)
+
+**Tools Used:** Microsoft Excel(Data Cleaning, Slicers, Conditional formatting, Pivot table, Pivot charts, using formulars)
+
+**Project Description:**
+
+Objective:
+
+The primary goal of this dashboard is to provide a comprehensive overview of Amazon's delivery performance, enabling data-driven decision-making and operational improvements.
+
+Data Sources:
+
+The dashboard likely relies on data from various sources, including:
+
+Order Management System: Information on orders, products, quantities, and delivery addresses.
+
+Logistics System: Data on shipping methods, carrier performance, and delivery times.
+
+Weather Data: Real-time weather information to analyze its impact on deliveries.
+
+Dashboard Components:
+
+The dashboard appears to include the following key components:
+
+Filters:
+
+Area: Allows users to filter data by geographic area (e.g., Metropolitan, Other, Semi-Urban, Urban).
+
+Months: Filters data by specific months.
+
+Category: Filters data by product category.
+
+Key Performance Indicators (KPIs):
+
+Orders by Store Area: Shows the number of orders processed by different store areas.
+
+Delivery Times by Store Area: Visualizes the average delivery time for each store area.
+
+Vehicle Utilization by Area: Displays the utilization of vehicles in different areas.
+
+Total Orders by Category: Shows the total number of orders for each product category.
+
+Order Volume per Month: Tracks the trend of order volume over time.
+
+Charts and Visualizations:
+
+Bar Charts: Used to compare metrics across different categories or time periods.
+
+Line Chart: Shows the trend of order volume over time.
+
+Stacked Bar Chart: Visualizes the impact of weather and traffic on delivery times.
+
+**Key findings:**
+
+Identify Bottlenecks: Pinpoint areas with long delivery times or low vehicle utilization.
+
+Optimize Delivery Routes: Analyze delivery routes to minimize travel time and fuel consumption.
+
+Improve Weather and Traffic Impact Analysis: Develop strategies to mitigate the impact of adverse weather conditions and traffic congestion.
+
+Enhance Inventory Management: Optimize inventory levels to ensure product availability and reduce stockouts.
+
+Monitor Seasonal Trends: Analyze seasonal variations in order volume to adjust staffing and resources accordingly.
+
+Customer Satisfaction: Track customer satisfaction metrics and identify areas for improvement in delivery speed and accuracy.
+
+Amazon can gain valuable insights into its delivery operations, optimize performance, and enhance customer satisfaction by using this dashboard
+
+**Dashboard Overview:**
+![Amazon](Amazon.PNG)
+
+
 
 
