@@ -552,6 +552,112 @@ We can identify trends, outliers, and potential correlations by analyzing this d
 
 **Technology used:** SQL server
 
+**Title:** Customer & Sales Data Interrogation
+
+**SQL Code:** [Customer & Sales Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Customer%20%26%20Sales%20Data.Sql)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+Data Filtering (WHERE): Applied filters to select relevant data.
+
+Comparison Operators:
+=: Equal to
+
+Greater than (>)
+
+BETWEEN: Within a range
+
+Logical Operators:
+
+AND: Combines multiple conditions.
+
+OR: Combines multiple conditions.
+
+IN: Checks if a value is in a list of values.
+
+Date and Time Functions: Used to filter data based on specific date ranges.
+
+**Project Description:**
+
+Project Objective:
+
+To analyze sales data from a company to gain insights into sales performance, customer behavior, and identify potential areas for improvement.
+
+Data Sources:
+
+Salesman Table: Contains information about salespeople, including their names, cities, and commission rates.
+
+Customer Table: Contains information about customers, including their names, cities, grades, and assigned salespeople.
+
+Order Table: Contains information about orders, including order numbers, dates, amounts, customer IDs, and salesperson IDs.
+Key Questions to Answer:
+
+Sales Performance Analysis:
+
+Which salespeople have the highest commissions?
+
+Are there any trends in sales performance over time?
+
+What is the average order value for each salesperson?
+
+Customer Analysis:
+
+Which customers have placed the most orders?
+
+What is the average order value for each customer?
+
+Are there any customers who have not placed orders recently?
+
+Salesperson-Customer Relationships:
+
+Which salespeople have the most customers?
+
+Are there any salespeople who are not assigned to any customers?
+
+Are there any customers who have not been assigned to a salesperson?
+
+Sales and Customer Trends:
+
+Are there any seasonal trends in sales?
+
+Are there any specific customer segments that generate the most revenue?
+
+Are there any geographic patterns in sales performance?
+
+Expected Outcomes:
+
+By analyzing the data, we can:
+
+Identify top-performing salespeople and reward them accordingly.
+
+Identify underperforming salespeople and provide additional training or support.
+
+Identify high-value customers and target them with personalized offers.
+
+Identify potential new customer segments.
+
+Optimize sales and marketing strategies to increase revenue.
+
+Specific Use Cases:
+
+Sales Management: Use the analysis to identify top-performing salespeople and reward them accordingly.
+
+Customer Relationship Management: Use the analysis to identify high-value customers and target them with personalized offers.
+
+Marketing: Use the analysis to identify potential new customer segments and target them with marketing campaigns.
+
+Operational Efficiency: Use the analysis to identify inefficiencies in the sales process and implement improvements.
+
+**Technology used:** SQL server
+
+
+
 
 
 
