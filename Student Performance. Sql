@@ -1,0 +1,51 @@
+	
+--1	What is the Student's highest total score?
+SELECT MAX([total_score]) AS Highest_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+
+--2	What is the Student's highest  maths score?
+SELECT MAX([math_score]) Highest_Maths_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+
+--3	What is the Student's highest reading score?
+SELECT MAX([reading_score]) Highest_Reading_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+
+--4	What is the Student's highest writing score?
+SELECT MAX([writing_score]) Highest_Maths_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+
+--5	What is the Student's highest total score by gender?
+SELECT [gender],MAX([total_score]) Highest_Maths_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+GROUP BY gender
+ORDER BY [gender]
+
+--6	What is the top 5 average score of the students?
+SELECT TOP 5 [average_score]
+FROM [dbo].[Cleaned_Students_Performance$]
+ORDER BY [average_score] DESC
+
+--7	What is the bottom 5 average score of the students?
+SELECT TOP 5 [average_score]
+FROM [dbo].[Cleaned_Students_Performance$]
+ORDER BY [average_score] ASC
+
+--8	Which race_ethnicity have the highest total score among the Students?
+SELECT [race_ethnicity], MAX([total_score])AS Highest_Score
+FROM [dbo].[Cleaned_Students_Performance$]
+GROUP BY [race_ethnicity]
+ORDER BY [race_ethnicity] DESC
+
+--9	What is the total count of Students
+SELECT COUNT(*) AS Total_Students
+FROM [dbo].[Cleaned_Students_Performance$]
+
+--10 Create a status column for student that have completed or not complete the test preparation course.
+SELECT *, [test_preparation_course],
+	CASE [test_preparation_course]
+		WHEN '0' THEN 'Not complete'
+		WHEN '1' THEN 'Complete'
+		ELSE 'NONE'
+		END AS Status
+FROM [dbo].[Cleaned_Students_Performance$]
