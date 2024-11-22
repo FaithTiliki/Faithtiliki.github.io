@@ -1,0 +1,66 @@
+--Questions	
+--1	How many Products does the company sell?
+
+SELECT COUNT(DISTINCT([Product])) AS No_of_Products
+FROM [dbo].['Food supply$']
+
+--2	Can I know the list of product categories we have?
+
+SELECT DISTINCT([Category])
+FROM [dbo].['Food supply$']
+
+--3	Which city do we have the highest sales?
+
+SELECT TOP 1 [City], SUM([Total Sales]) AS City_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [City] 
+ORDER BY [City_Sales] DESC
+
+--4	What is our total sales for all regions?
+
+SELECT [Region], SUM([Total Sales]) AS Region_Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Region]
+
+--5	What is the list of our total sales by region?
+
+SELECT [Region], SUM([Total Sales]) AS Region_Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Region]
+
+--6	What are the top 3 selling product category?
+
+SELECT TOP 3 [Category], SUM([Total Sales]) AS Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Category]
+ORDER BY Sales DESC
+
+--7	What is the total sales for our carrot product?
+
+SELECT [Product], SUM([Total Sales]) AS Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Product] 
+HAVING [Product] = 'carrot'
+
+--8	What is the total sales for our Potato chips & chocolate chip product?
+
+SELECT [Product], SUM([Total Sales]) AS Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Product]
+HAVING [Product] IN ('Potato chips', 'chocolate chip')
+
+--9	What is the total sales for Boston & Newyork?
+
+SELECT [City], SUM([Total Sales]) AS Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [City]
+HAVING [City]  IN ('Boston', 'New york')
+
+--10	What is the total sales for the West Region?
+
+SELECT [Region], SUM([Total Sales]) AS Total_Sales
+FROM [dbo].['Food supply$']
+GROUP BY [Region]
+HAVING [Region] = 'west'
+
+
