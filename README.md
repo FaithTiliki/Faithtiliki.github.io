@@ -311,7 +311,7 @@ Data Retrieval (SELECT): Queried and extracted specific information from the dat
 
 Data Aggregation (SUM, COUNT, MIN, MAX, AVG): Used to count the number of rows in a specific group or the entire table, to find the maximum value in a specific column, to find the minimum value in a specific column and to calculate the average value of a specific column.
 
-Data Filtering (WHERE, BETWEEN, IN,  ORDERBY, GROUPBY AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Filtering (WHERE, BETWEEN, IN, LEFT, ORDERBY, GROUPBY, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
@@ -381,6 +381,83 @@ HR Analytics: Analyzing employee demographics, salary trends, and performance me
 Project Management: Tracking project assignments and resource allocation.
 
 Compensation Planning: Identifying salary ranges and potential disparities.
+
+**Technology used:** SQL server
+
+# Project 6
+
+**Title:** Pizza Sales Data Interrogation
+
+SQL Code: [Piza Sales Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/new/main)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+Data Filtering (WHERE): Applied filters to select relevant data.
+
+Comparison Operators:
+=: Equal to
+
+Greater than (>)
+
+BETWEEN: Within a range
+
+Logical Operators:
+
+AND: Combines multiple conditions.
+
+OR: Combines multiple conditions.
+
+IN: Checks if a value is in a list of values.
+
+Date and Time Functions: Used to filter data based on specific date ranges.
+
+**Project Description:**
+
+Project Objective:
+To analyze sales data from a pizza restaurant to gain insights into sales trends, customer preferences, and revenue performance.
+
+Data Source:
+A SQL database named [dbo].[pizza_sales].
+
+Key Questions to Answer:
+
+Overall Performance:
+
+What is the total revenue generated?
+
+How many pizzas were sold in total?
+
+How many orders were placed?
+
+Product Performance:
+
+Which pizza category (e.g., Veggie, Meat) is the most popular?
+
+Which specific pizza types (e.g., The Hawaiian Pizza, The Greek Pizza) are the best-sellers?
+
+What is the sales quantity of a specific pizza (e.g., The Spinach Pesto Pizza) in a particular month?
+
+Sales Trends:
+
+What were the best-selling pizzas in a specific month (e.g., January 2015)?
+
+What were the best-selling pizzas in a specific quarter (e.g., Q4 2015)?
+
+Customer Preferences:
+
+What are the most popular pizza sizes (e.g., Small, Medium, Large)?
+
+Which pizzas are the most expensive?
+
+Expected Outcomes:
+
+By analyzing the data, we can identify trends, opportunities, and areas for improvement. This information can be used to optimize menu offerings, pricing strategies, and marketing campaigns.
 
 **Technology used:** SQL server
 
