@@ -465,7 +465,7 @@ By analyzing the data, we can identify trends, opportunities, and areas for impr
 
 **Title:** Football Players Data Interrogarion
 
-**SQL Code:** [Football Players Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/new/main)
+**SQL Code:** [Football Players Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Footbal%20Players%20Data.Sql)
 
 **SQL Skills Used:**
 
