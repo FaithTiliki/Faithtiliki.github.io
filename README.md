@@ -461,6 +461,98 @@ By analyzing the data, we can identify trends, opportunities, and areas for impr
 
 **Technology used:** SQL server
 
+# Project 7
+
+**Title:** Football Players Data Interrogarion
+
+**SQL Code:** [Football Players Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/new/main)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+Data Aggregation (MAX,COUNT, MIN, AVG): Finds the maximum value in a column, Counts the number of rows or non-null values in a column, Finds the minimum value in a column and Calculates the average value in a column. 
+
+Data Filtering (WHERE, GROUPBY): Applied filters to select relevant data, also used to group rows based on one or more columns.
+
+Comparison Operators:
+=: Equal to
+
+Greater than (>)
+
+BETWEEN: Within a range
+
+Logical Operators:
+
+AND: Combines multiple conditions.
+
+OR: Combines multiple conditions.
+
+IN: Checks if a value is in a list of values.
+
+Advanced SQL Skills
+
+Window Functions:
+
+RANK: Assigns a rank to each row within a partition.
+
+Subqueries: Used to embed one query within another to filter or aggregate data.
+
+Joins: While not explicitly used in these queries, joins can be used to combine data from multiple tables.
+
+Common Table Expressions (CTEs): Can be used to simplify complex queries and improve readability.
+
+CASE Statement: Used to conditionally assign values to a new column.
+
+**Project Description:**
+
+Project Goal:
+To analyze a dataset of football player information to gain insights into player performance, team dynamics, and potential trends.
+
+Data Source:
+A SQL database named [dbo].['Football Players Data'].
+
+Key Questions to Answer:
+
+Player Performance:
+
+Who are the heaviest players in each position?
+
+How are players ranked by age within their team?
+
+What is the average height of players older than 25?
+
+Who are the tallest and shortest players from each college?
+
+Who are the players with the minimum height for each position?
+
+Team Dynamics:
+
+How many players are there for each team, grouped by experience level?
+
+What is the percentage of players in each position for every team?
+
+Player Comparisons:
+
+Who are the players whose height is greater than the average height of their team?
+
+Who are the players whose weight is above the average weight for their position?
+
+Data Cleaning and Transformation:
+
+Can we categorize players based on age (e.g., Young, Middle-Aged, Old)?
+
+Can we standardize college names (e.g., map "Alabama" to "University of Alabama")?
+
+Potential Outcomes:
+
+We can identify trends, outliers, and potential correlations by analyzing this data. This information can be used for player scouting, team building, and strategic decision-making. Additionally, the analysis can help in understanding player performance metrics and identifying areas for improvement.
+
+**Technology used:** SQL server
+
+
 
 
 
