@@ -552,6 +552,7 @@ We can identify trends, outliers, and potential correlations by analyzing this d
 
 **Technology used:** SQL server
 
+# Project 8
 **Title:** Customer & Sales Data Interrogation
 
 **SQL Code:** [Customer & Sales Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Customer%20%26%20Sales%20Data.Sql)
