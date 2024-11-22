@@ -739,6 +739,62 @@ Resource Allocation: Allocate resources to schools and programs that have demons
 
 # Project 10
 
+**Title:** [Student Performance Interactive Dashboard](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Student%20Performance%20Dashboard.pbix)
+
+**Tools Used:** Microsoft Powerpoint (Visualization, Colour Scheme and Interactivity)
+
+**Project Description:** 
+
+Project Goal:
+
+To create a visual dashboard that provides a comprehensive overview of student performance data, enabling data-driven insights into student achievement, identify trends, and inform educational strategies.
+
+Data Source:
+
+A SQL database containing student performance data which include;
+
+Student demographics (e.g., gender, race/ethnicity, parental level of education)
+
+Test scores (e.g., math, reading, writing)
+
+Test preparation course completion status
+
+Dashboard Components and Insights:
+
+Total Number of Students: A simple metric displaying the overall number of students in the dataset.
+
+Average Score by Gender: A pie chart showing the average score for male and female students. This helps identify potential gender-based performance disparities.
+
+Total Score by Gender: A bar chart comparing the total scores of male and female students. This provides a more granular view of performance differences.
+
+Average Score of Math, Reading, and Writing by Gender: A bar chart comparing the average scores of male and female students in each subject. This helps identify subject-specific performance differences.
+
+Average Score of Math, Reading, and Writing by Parental Level of Education: A bar chart comparing the average scores of students whose parents have different levels of education. This helps identify the impact of parental education on student achievement.
+
+Average Score of Reading and Writing by Parental Level of Education: A bar chart comparing the average reading and writing scores of students whose parents have different levels of education. This helps identify the impact of parental education on specific subject areas.
+
+Average Score of Math by Parental Level of Education: A bar chart comparing the average math scores of students whose parents have different levels of education. This helps identify the impact of parental education on math achievement.
+
+Average Score of Reading and Writing by Race/Ethnicity: A bar chart comparing the average reading and writing scores of students from different racial/ethnic groups. This helps identify potential racial/ethnic disparities in performance.
+
+**Key findings and Insights:**
+
+Identify Performance Gaps: By comparing scores across different demographics, educators can identify areas where students may be struggling.
+
+Inform Instructional Strategies: The data can help inform instructional strategies and target interventions to address specific needs.
+
+Evaluate the Impact of Parental Education: The dashboard can help assess the impact of parental education on student achievement.
+
+Monitor Student Progress: By tracking performance over time, educators can monitor student progress and identify trends.
+
+Resource Allocation: The data can help inform resource allocation decisions, such as allocating additional support to struggling students or schools.
+
+**Dashboard Overview:**
+
+![Students](Students.PNG)
+
+
+
 
 
 
