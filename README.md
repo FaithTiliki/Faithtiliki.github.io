@@ -388,7 +388,7 @@ Compensation Planning: Identifying salary ranges and potential disparities.
 
 **Title:** Pizza Sales Data Interrogation
 
-SQL Code: [Piza Sales Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/new/main)
+SQL Code: [Piza Sales Data Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Pizza%20Sales%20Sql)
 
 **SQL Skills Used:**
 
