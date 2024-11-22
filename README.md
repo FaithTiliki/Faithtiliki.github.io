@@ -794,11 +794,16 @@ Resource Allocation: The data can help inform resource allocation decisions, suc
 ![Students](Students.PNG)
 
 # Project 11
-Title: Food Supply Data Interrogation
-SQL Code: [Food Supply Data Sql Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Food%20Supply.%20Sql)
-SQL Skills Used:
-Project Description:
-Technology used: SQL server
+
+**Title:** Food Supply Data Interrogation
+
+**SQL Code:** [Food Supply Data Sql Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Food%20Supply.%20Sql)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
 
 
 
