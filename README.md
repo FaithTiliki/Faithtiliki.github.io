@@ -657,6 +657,90 @@ Operational Efficiency: Use the analysis to identify inefficiencies in the sales
 
 **Technology used:** SQL server
 
+# Project 9
+
+**Title:** Student Performance Data Interrogation
+
+**SQL Code:** [Student Performance Data Sql Queries](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/Student%20Performance.%20Sql)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+Data Aggregation (Max, COUNT): Finds the maximum value in a column and Counts the number of rows or non-null values in a column.
+
+Data Filtering (WHERE): Applied filters to select relevant data.
+
+GROUP BY Clause: Used to group rows based on one or more columns.
+
+ORDER BY Clause: Sorts the result set based on specified columns.
+
+TOP Clause: Limits the number of rows returned.
+
+Advanced SQL Skills
+CASE Statement: Used to conditionally assign values to a new column.
+
+**Project Description:**
+
+Project Objective:
+
+To analyze student performance data to gain insights into student achievement, identify trends, and inform educational strategies.
+
+Data Source:
+
+A SQL database named [dbo].[Cleaned_Students_Performance].
+
+Key Questions to Answer:
+
+Overall Performance:
+
+What is the highest total score achieved by any student?
+
+What are the highest scores in each subject (Math, Reading, Writing)?
+
+What is the distribution of average scores among students?
+
+Performance by Gender:
+Which gender tends to have higher total scores?
+
+Performance by Race/Ethnicity:
+
+Which racial/ethnic group tends to have the highest total scores?
+
+Impact of Test Preparation Course:
+
+How does the completion of a test preparation course impact student performance?
+
+Expected Outcomes:
+
+By analyzing the data, we can:
+
+Identify High-Performing Students: Recognize students who consistently excel in multiple subjects.
+
+Identify Areas for Improvement: Determine specific subjects or skills where students may need additional support.
+
+Evaluate the Effectiveness of the Test Preparation Course: Assess whether the course positively impacts student performance.
+
+Inform Educational Policies: Use the insights to develop targeted interventions and strategies to improve student outcomes.
+
+Potential Use Cases:
+
+Student Support: Identify students who may need additional tutoring or academic support.
+
+Curriculum Development: Evaluate the effectiveness of current curriculum and identify areas for improvement.
+
+Teacher Professional Development: Provide teachers with data-driven insights to inform their instructional practices.
+
+Resource Allocation: Allocate resources to schools and programs that have demonstrated positive impacts on student achievement.
+
+**Technology used:** SQL server
+
+# Project 10
+
+
+
 
 
 
