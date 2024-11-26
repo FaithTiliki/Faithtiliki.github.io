@@ -837,7 +837,9 @@ To analyze food supply chain data to gain insights into sales performance, produ
 
 Data Source:
 
-A SQL database named [dbo].['Food supply$'].
+A SQL database named [dbo].['Food supply'].
+
+Data was imported using ETL Piplene (SQL Server Integration Services (SSIS))
 
 Key Questions to Answer:
 
