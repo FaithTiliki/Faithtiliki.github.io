@@ -801,7 +801,87 @@ Resource Allocation: The data can help inform resource allocation decisions, suc
 
 **SQL Skills Used:**
 
+The provided SQL queries demonstrate a solid foundation in SQL, particularly in the context of data analysis and retrieval from a database named [dbo].['Food supply']. Specific skills utilized:
+
+Fundamental SQL Skills
+
+SELECT Statement: The core of all queries, used to retrieve specific columns from the table.
+
+FROM Clause: Specifies the table involved in the query.
+
+WHERE Clause: Used to filter rows based on specific conditions, though not explicitly used in these queries.
+
+GROUP BY Clause: Used to group rows based on one or more columns.
+
+ORDER BY Clause: Sorts the result set based on specified columns.
+
+Aggregate Functions:
+
+COUNT: Counts the number of rows or non-null values in a column.
+
+SUM: Calculates the sum of a numeric column.
+
+DISTINCT Keyword: Used to eliminate duplicate values.
+
+Advanced SQL Skills
+
+HAVING Clause: Used to filter groups created by the GROUP BY clause.
+
+TOP Clause: Limits the number of rows returned.
+
 **Project Description:**
+
+Project Goal:
+
+To analyze food supply chain data to gain insights into sales performance, product popularity, and regional trends.
+
+Data Source:
+
+A SQL database named [dbo].['Food supply$'].
+
+Key Questions to Answer:
+
+Product Analysis:
+
+How many different products does the company sell?
+
+What are the different product categories available?
+
+What are the top 3 best-selling product categories?
+
+What are the total sales for specific products like carrots, potato chips, and chocolate chips?
+
+Regional Analysis:
+
+Which city has the highest sales?
+
+What are the total sales for each region?
+
+What are the total sales for specific cities like Boston and New York?
+
+What are the total sales for a specific region like the West region?
+
+Expected Outcomes:
+
+By analyzing the data, we can:
+
+Identify Top-Performing Products: Determine the most popular products and categories.
+
+Optimize Inventory Management: Identify slow-moving and fast-moving products to optimize inventory levels.
+
+Identify High-Performing Regions: Identify regions with high sales potential for targeted marketing efforts.
+
+Inform Business Decisions: Use the insights to make informed decisions about product assortment, pricing, and marketing strategies.
+
+Potential Use Cases:
+
+Product Strategy: Use the analysis to identify opportunities for product innovation and discontinuation.
+
+Marketing Strategy: Target marketing efforts to specific regions or customer segments.
+
+Supply Chain Optimization: Optimize the supply chain to ensure efficient delivery of products.
+
+Financial Planning: Forecast future sales and revenue based on historical data.
 
 **Technology used:** SQL server
 
