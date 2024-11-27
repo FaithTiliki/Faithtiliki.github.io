@@ -887,6 +887,63 @@ Financial Planning: Forecast future sales and revenue based on historical data.
 
 **Technology used:** SQL server
 
+# Project 12
+
+**Title:** [The World's Biggest Economies Over Time](By effectively visualizing the shifts in global economic power, this project can help audiences better understand the changing landscape of the global economy and its implications for various sectors and industries.)
+
+**Tools Used:** Microsoft PowerBI(Power Query, Transformation of Data, DAX, Visual Formatting)
+
+**Project Description:**
+
+Project Goal:
+
+To create a visually engaging and informative visualization that illustrates the shifts in global economic power over time, specifically focusing on the top economies from 1993 to 2023.
+
+Data Source:
+
+A dataset containing GDP (Gross Domestic Product) data for the top economies from 1993, 2008, and 2023. The data should include country names and their corresponding GDP values for each year.
+
+A Sankey diagram is an ideal choice for this visualization. Sankey diagrams are particularly effective for visualizing flows and relationships between different categories. In this case, the flow represents the change in economic ranking between the three years.
+
+Visualization Elements:
+
+Nodes:
+
+Represent the top economies in each year (1993, 2008, 2023).
+
+Color-coded by continent (Americas, Asia, Europe).
+
+Flows:
+
+Connect nodes from 1993 to 2008 and from 2008 to 2023.
+
+The width of the flow represents the relative change in GDP ranking.
+
+The color of the flow corresponds to the continent of the country.
+
+Labels:
+
+Clearly label each node with the country name and its corresponding year.
+
+Optionally, include numerical data (e.g., GDP values) for each node or flow.
+
+**Key findings:**
+
+Rise of China: The significant rise of China as a global economic power, surpassing Japan and Germany.
+
+Decline of Japan: The relative decline of Japan's economic dominance.
+
+Stability of the US: The consistent position of the United States as the world's largest economy.
+
+Shifting European Influence: The changing dynamics among European economies.
+
+By effectively visualizing the shifts in global economic power, this project can help audiences better understand the changing landscape of the global economy and its implications for various sectors and industries.
+
+**Dashboard Overview:**
+
+![World](World.PNG)
+
+
 
 
 
