@@ -889,7 +889,7 @@ Financial Planning: Forecast future sales and revenue based on historical data.
 
 # Project 12
 
-**Title:** [The World's Biggest Economies Over Time](By effectively visualizing the shifts in global economic power, this project can help audiences better understand the changing landscape of the global economy and its implications for various sectors and industries.)
+**Title:** [The World's Biggest Economies Over Time](https://github.com/FaithTiliki/Faithtiliki.github.io/blob/main/World's%20Biggest%20Economy%20Over%20Time.pbix)
 
 **Tools Used:** Microsoft PowerBI(Power Query, Transformation of Data, DAX, Visual Formatting)
 
